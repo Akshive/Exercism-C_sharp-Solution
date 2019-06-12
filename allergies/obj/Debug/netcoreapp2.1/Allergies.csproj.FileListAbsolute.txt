@@ -1,0 +1,14 @@
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\Allergies.deps.json
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\Allergies.runtimeconfig.json
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\Allergies.runtimeconfig.dev.json
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\Allergies.dll
+C:\Users\admin\Exercism\csharp\allergies\bin\Debug\netcoreapp2.1\Allergies.pdb
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.csprojAssemblyReference.cache
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.AssemblyInfoInputs.cache
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.AssemblyInfo.cs
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.dll
+C:\Users\admin\Exercism\csharp\allergies\obj\Debug\netcoreapp2.1\Allergies.pdb

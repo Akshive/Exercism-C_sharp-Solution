@@ -1,0 +1,14 @@
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\admin\Exercism\csharp\bank-account\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\admin\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.pdb

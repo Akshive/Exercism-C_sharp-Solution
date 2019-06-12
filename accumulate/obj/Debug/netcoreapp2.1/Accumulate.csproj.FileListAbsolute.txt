@@ -1,0 +1,14 @@
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.deps.json
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.json
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.dev.json
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.dll
+C:\Users\admin\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.pdb
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.csprojAssemblyReference.cache
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfoInputs.cache
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfo.cs
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.dll
+C:\Users\admin\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.pdb
