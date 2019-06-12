@@ -1,0 +1,14 @@
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\Leap.deps.json
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.json
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.dev.json
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\Leap.dll
+c:\Users\admin\Exercism\csharp\leap\bin\Debug\netcoreapp2.1\Leap.pdb
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.csprojAssemblyReference.cache
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.csproj.CoreCompileInputs.cache
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.AssemblyInfoInputs.cache
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.AssemblyInfo.cs
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.dll
+c:\Users\admin\Exercism\csharp\leap\obj\Debug\netcoreapp2.1\Leap.pdb
